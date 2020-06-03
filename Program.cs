@@ -6,7 +6,7 @@ using System.Net.Http;
 namespace RestAPISelfHostSample
 {
     class Program
-    {
+    {        
         static void Main(string[] args)
         {
             string baseAddress = "http://localhost:9000/";
